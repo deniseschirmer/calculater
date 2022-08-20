@@ -1,0 +1,32 @@
+Regras de funcionamento
+1- Após o usuário selecionar o primeiro número e clicar em qualquer operaçaõ, deve-se:
+a- Armazenár o primeiro número que usuario escolheu.
+b- Bloquear todos os botoes de operação.
+c- Salvar a operação.
+2- Selecionar o segundo número e apertar em igual. 
+a- Deve-se exibir o resultado na tela.
+b- Desbloquear os botoes de operação.
+
+
+Algoritimo
+1- Criar um array com os tipo de operações.
+2- O valor padrão vai ser 0, tanto do primeiro e do segundo numero.
+3- Fazer um validação(comparação). Se o botão apertado é um número ou uma operação.
+4- È operação:
+a- Preciso salvar numa variavel o primeiro numero escolhido.
+b- Armazanar numa variavel o sinal da operação.
+c- Bloquear os botões de operação.
+5- Criar uma função para cada operação.
+6- Quando ele clicar no botao de igual. 
+a- Salvar o segundo numero escolhido na variavel.
+b- Com base na varivel da operação, fazer a chamada da operação correta.
+c- Exibir o resultado na tela.
+d- Desbloquear os botões de operação.
+
+Refatorar 
+objetivo: 
+Remover tudo que tiver da operação para trás
+disso: 
+currentOperation.innerHTML = 152+125;
+eu só preciso disso:
+secondNumber = 125;
