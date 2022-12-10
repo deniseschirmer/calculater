@@ -3,13 +3,6 @@
 
 <h1 style="text-align: center; font-weight: bold;">Calculator</h1>
 
-## Demo 📸
-
-<div align="center" >
-   <img src="github/calculator.png" alt="demo-mobile" height="425">
-</div>
- ---
-
 ## Sobre o Projeto
 O Projeto Todo foi desenvolvido para praticar o aprendizado adiquirido em javascript.
 
