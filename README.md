@@ -6,7 +6,7 @@
 ## Demo 📸
 
 <div align="center" >
-   <img src="./github/calculator.png" alt="demo-mobile" height="425">
+   <img src="github/calculator.png" alt="demo-mobile" height="425">
 </div>
  ---
 
